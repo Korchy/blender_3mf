@@ -30,7 +30,7 @@ Current add-on version:
 
 Blender versions:
 -
-4.4
+4.4, 4.5
 
 Location and call:
 -
